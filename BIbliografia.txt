@@ -1,0 +1,251 @@
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+      OBJETIVOS:
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.whatsupgold.com/es/blog/los-beneficios-del-monitoreo-de-redes#:~:text=Cuando%20se%20detecta%20un%20problema,de%20la%20línea%20de%20transmisión
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+      ESTADO DEL ARTE Y ANALISIS DEL CONTEXTO:
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+PANDORA:
+https://pandorafms.com/es/resumen-del-producto/
+https://pandorafms.com/es/descargas-pandora-fms/
+
+
+MICROSOFT AZURE MONITOR:
+https://azure.microsoft.com/es-mx/products/monitor/
+https://azure.microsoft.com/es-mx/pricing/purchase-options/pay-as-you-go/
+
+
+SOLARWINDS NETWORK PERFOMANCE MONITOR: 
+https://www.solarwinds.com/network-performance-monitor
+https://www.solarwinds.com/downloads
+
+
+DYNATRACE:
+https://www.dynatrace.com/monitoring/technologies/ibm-cloud-monitoring/?utm_source=google&utm_medium=cpc&utm_term=ibm%20monitoring&utm_campaign=emea-south-im-cloud-monitoring&utm_content=none&utm_campaign_id=688169470&gclsrc=aw.ds&gclid=Cj0KCQjwi46iBhDyARIsAE3nVrbW-gv44i4mJTHZ7BfKLjIGywkcajh6I7p3INFpIgNMDQX3nmhoJGkaAhRvEALw_wcB#free-trial
+https://www.getapp.es/software/100741/ruxit
+
+
+EMPRESAS DE CANTABRIA QUE COMPITEN CONMIGO:
+https://www.lisdatasolutions.com/es
+https://www.netkia.es
+https://sayme.io
+https://priorcs.com
+https://www.google.com/search?client=opera-gx&hs=08D&sa=X&hl=es&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=APwXEdc2HiikprYvs6P9arct3nk0urrroQ:1682951703538&q=empresas+monitorización+en+cantabria&rflfq=1&num=10&rllag=43399599,-3919141,12577&ved=2ahUKEwifrdrTq9T-AhWEyKQKHevAClkQjGp6BAgVEAE&biw=1707&bih=804&dpr=1.13#rlfi=hd:;si:;mv:[[43.5011016,-3.4091678],[42.9670086,-4.170804899999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+NAGIOS:
+https://pandorafms.com/blog/es/herramientas-de-monitoreo-de-redes/
+https://pandorafms.com/blog/es/zabbix-vs-nagios-vs-pandorafms-una-comparativa-en-profundidad/
+https://colaboratorio.net/davidochobits/sysadmin/2017/las-mejores-herramientas-de-monitorizacion-de-software-libre/
+
+
+AMAZON CLOUDWATCH:
+https://trends.google.es/trends/explore?date=now%201-d&geo=ES&q=%2Fg%2F122pkytj,google%20cloud,dynatrace&hl=es
+https://revistabyte.es/comparativa/herramientas-de-monitorizacion-rep/
+https://codster.io/blog/herramientas-monitoreo-en-la-nube/
+https://aws.amazon.com/es/cloudwatch/
+https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#internet-monitor:monitors
+https://awsacademy.instructure.com/courses/45163/modules/items/3883912
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+	REQUISITOS:
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.scribd.com/document/494259491/Ejemplo-de-reporte-de-incidencias
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+	DISEÑO E IMPLEMENTACIÓN
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+SITIO WEB DE HORUS SIGHT: 		https://aboladoh01.wixsite.com/horus-sight
+GITHUB DEL PROYECTO:			https://github.com/AngelBH6603/Horus-Sight.git
+
+VIRTUALBOX: 				https://www.virtualbox.org/wiki/Downloads
+INFORMACIÓN GUEST ADDITIONS:		https://www.softzone.es/programas/sistema/instalar-guest-addition-virtual-box/
+ISO DEBIAN 11:				https://www.debian.org/distrib/netinst#smallcd
+ISO WINDOWS 10:				https://www.microsoft.com/es-es/software-download/windows10	
+ISO WINDOWS SERVER:			https://www.microsoft.com/es-es/evalcenter/download-windows-server-2019		
+VIDEO DEBIAN SERVER:			https://www.youtube.com/watch?v=EG27UCrOZ6U (TUTORIAL DE YOUTUBE)
+MEJORAR RENDIMIENTO:			https://www.youtube.com/watch?v=I2PcoLVp2LU
+CONFIGURACIÓN DHCP:			https://www.gallardo.work/2014/12/configuracion-de-un-servidor-dhcp-y.html
+UNION DOMINIO WINDOWS:			https://learn.microsoft.com/es-es/windows-server/identity/ad-fs/deployment/join-a-computer-to-a-domain / https://www.youtube.com/watch?v=CbycJ-L7PR8
+UNION DOMINIO LINUX:			https://www.youtube.com/watch?v=NpjJ7gBAh6w&t=237s
+CAMBIAR DNS EN LINUX:			https://www.mundodeportivo.com/urbantecno/linux/como-cambiar-el-dns-en-linux-para-navegar-mas-rapidamente
+
+SOLUCIÓN ERROR INSTALACIÓN PAQUETES:	https://santimacnet.wordpress.com/2020/04/01/azure-error-powershellget-requires-nuget-provider-2-8-5-201-or-newer-en-virtual-machine-de-azure-y-como-solucionarlo/
+SOLUCIONAR ERROR UNION DOMINIO:		https://learn.microsoft.com/es-es/troubleshoot/windows-server/identity/troubleshoot-errors-join-computer-to-domain
+SOLUCIÓN ERRROR REPOSITORIOS LINUX:	https://www.youtube.com/watch?v=8NFldPH_-c0
+SOLUCIÓN REALM COMANDO NO ENCONTRADO:	https://pkgs.loginroot.com/errors/notFound/realm
+PROBLEMA PAQUETES REALMD		https://lists.fedorahosted.org/archives/list/sssd-users@lists.fedorahosted.org/thread/Y62YBXJQ2PCWFTMDLBVYUPQ63CNTJMHI/
+SOLUCIÓN UNION AL DOMINIO LINUX		https://lynuxadmin.blogspot.com/2017/09/couldnt-join-realm.html
+
+SOLUCION A2ENSITE ERROR:		https://stackoverflow.com/questions/49138215/apache2-command-such-as-a2enmod-and-a2ensite-no-working-its-showing-command-not
+FICHERO HOSTS EN WINDOWS:		https://www.muycomputer.com/2022/05/13/windows-fichero-etc-hosts/
+APACHE SSL:				https://juncotic.com/apache2-y-ssltls-en-debian-ejemplo/
+
+DESCARGAR NAGIOS:			https://www.nagios.com/downloads/nagios-xi/linux/ 
+INSTALACIÓN Y CONFIGURACION SNMP	https://kifarunix.com/install-and-configure-snmp-on-ubuntu-debian/		
+AÑADIR ROUTER A NAGIOS: 		https://www.youtube.com/watch?v=CfLC6JifVIU	///	https://www.youtube.com/watch?v=AZaPQ-_PN5s
+AÑADIR ACTIVE DIRECTORY A NAGIOS:	https://www.youtube.com/watch?v=K2vNUlYQdho
+AÑADIR HOSTS LINUX A NAGIOS: 		https://www.tecmint.com/how-to-add-linux-host-to-nagios-monitoring-server/#Step_1_Install_Required_Dependencies /// https://www.youtube.com/watch?v=o-huXene4Yo
+AÑADIR HOSTS WINDOWS A NAGIOS PASOS: 	https://redessy.com/como-agregar-un-host-de-windows-y-linux-al-servidor-nagios-para-monitoreo/ /// https://www.tecmint.com/how-to-add-windows-host-to-nagios-monitoring-server/
+VIDEOS PROTOCOLO NCPA LINUX:		https://www.youtube.com/watch?v=joDGqhtISpw /// https://support.nagios.com/kb/article/monitoring-linux-using-ncpa-880.html
+LISTA DE VIDEOS NAGIOS: 		https://www.youtube.com/@nagiosvideo/playlists?view=50&sort=dd&shelf_id=25 /// https://www.youtube.com/playlist?list=PLf0g2cV4iCkE9vRbsSoe5f428zMNlasKd
+TUTORIALES NAGIOS XL:			https://www.youtube.com/playlist?list=PLN-ryIrpC_mCd40_9NgA5Sm4ufIYb7mBr
+
+COMPARATIVA VERSIONES NAGIOS: 		https://www.abast.es/blog/que-version-de-nagios-deberia-utilizar/
+INSTALAR NAGIOS en UBUNTU: 		https://www.solvetic.com/tutoriales/article/12473-instalar-nagios-en-ubuntu/
+MANUAL NAGIOS EN LINUX:			https://assets.nagios.com/downloads/nagiosxi/docs/Installing-Nagios-XI-Manually-on-Linux.pdf /// https://nsrc.org/workshops/2016/walc/gestion/exercises/ejercicios-nagios-I-III-basico.htm					
+MANUAL LINUX NCPA NAGIO XL:		https://assets.nagios.com/downloads/ncpa/docs/Installing-NCPA.pdf
+DESCARGAS NCPA				https://www.nagios.org/ncpa/#downloads
+EMAIL TEMPORAL:				https://temp-mail.org/es/view/647b4c13c313ea0bc392dce7
+INFORMACIÓN NAGIO XL TRIAL:		https://support.nagios.com/kb/article/starting-a-nagios-xi-trial-884.html
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+	PRUEBAS Y PUESTA EN MARCHA 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+VIDEOS NOTIFICACIONES Y ALERTAS DE NAGIOS Xl:
+https://www.youtube.com/watch?v=N5PR3SlancI
+https://www.youtube.com/watch?v=DUzB7UY8oqY
+https://www.youtube.com/watch?v=jqaDIB9GumY
+https://www.youtube.com/watch?v=KR4IX4JitOs
+https://www.youtube.com/watch?v=689VlPjs058
+
+PREFERENCIAS DE NOTIFICACIONES NAGIOS XL: 	https://www.youtube.com/watch?v=N5PR3SlancI
+NOTIFICACIOENS POR CORREO (CONSOLA): 		https://www.youtube.com/watch?v=jqaDIB9GumY
+MANUAL Gmail SMTP with OAuth 2.0:		https://answerhub.nagios.com/support/s/article/Setting-up-Gmail-SMTP-with-OAuth-2-0-4ef4e977			
+GOOGLE CLOUD:					https://console.cloud.google.com/apis/credentials?hl=es-419&project=horusadmin&supportedpurview=project
+OAuth 2.0 para aplicaciones web del cliente:	https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow?hl=es-419
+				
+
+%type% Alerta de Host: %host% esta %hoststate%
+
+****************************************************************
+ALERTA DE SU SERVIDOR DE MONITORIZACIÓN
+****************************************************************
+%alertsummary%
+
+Tipo de notificación: %type%
+
+Host: %host%
+Estado: %hoststate%
+Dirrección: %hostaddress%
+Información: %hostoutput%
+Fecha/Hora: %datetime%
+
+Respuesta: %responseurl%
+Nagios URL: %xiserverurl%
+
+
+%type% Alerta de Servicio - %host%/%service% esta %servicestate%
+
+****************************************************************
+ALERTA DE SU SERVIDOR DE MONITORIZACIÓN
+****************************************************************
+
+%alertsummary%
+
+Tipo de notificación: %type%
+
+Servicio: %service%
+Host: %host%
+Dirrección: %hostaddress%
+Estado: %servicestate%
+Información:
+%serviceoutput%
+Fecha/Hora: %datetime%
+
+Respuesta: %responseurl%
+Nagios URL: %xiserverurl%
+
+
+
+HORUS SIGHT - El equipo %host% esta %hoststate%
+
+****************************************************************
+ALERTA DE SU SERVIDOR DE MONITORIZACIÓN
+****************************************************************
+%alertsummary%
+
+El equipo %host% con IP %hostaddress% está %hoststate%.
+
+****************************************************************
+Más información a continuación:
+****************************************************************
+MOTIVO DE ALERTA: %hostoutput%
+Fecha/Hora del Incidente: %datetime%
+****************************************************************
+Si requiere asistencia o piensa que este problema esta justificado no dude en contactar con su tecnico de Horus Sight o con el servicio de soporte de Horus Sight. Tlfno: 678158924
+
+Respuesta: %responseurl%
+Nagios URL: %xiserverurl%
+
+
+HORUS SIGHT -  El servicio Servicio %host%/%service% esta %servicestate%
+
+****************************************************************
+ALERTA DE SU SERVIDOR DE MONITORIZACIÓN
+****************************************************************
+
+%alertsummary%
+
+El servicio %service% del %host% con IP %hostaddress% está %servicestate%.
+
+****************************************************************
+Más información a continuación:
+****************************************************************
+%serviceoutput%
+
+MOTIVO DE ALERTA: %hostoutput%
+Fecha/Hora del Incidente: %datetime%
+****************************************************************
+Si requiere asistencia o piensa que este problema esta justificado no dude en contactar con su tecnico de Horus Sight o con el servicio de soporte de Horus Sight. Tlfno: 678158924
+
+Respuesta: %responseurl%
+Nagios URL: %xiserverurl%
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+	PLAN DE EMPRESA / PARTE ECONÓMICA 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+CANTABRIA EMPRENDEDORA: 		https://www.cantabriaemprendedora.es/es/persona/formas-juridicas/sociedad-limitada
+LOCAL:					https://www.milanuncios.com/alquiler-de-locales-comerciales-en-torrelavega-cantabria/torrelavega-avda-palencia-481004997.htm
+GUIA DE CONTRATOS:			https://sepe.es/HomeSepe/que-es-el-sepe/comunicacion-institucional/publicaciones/publicaciones-oficiales/listado-pub-empleo/guia-contratos/guia-contratos-introduccion.html?authuser=3
+CONVENIO COMERCIO DEL METAL 2022:	https://drive.google.com/file/d/1tza9NyBrb1JAkAHdRhz_xH0jBK8M5fJG/view
+TRAMITES EXPLICADOS:			https://drive.google.com/file/d/1PrySnUSpYcY-NJj2JvrA-IU51kWt8SzQ/view
+
+SITIO WEB: 		https://aboladoh01.wixsite.com/horus-sight
+EXTENSIÓN CREADOR QR:	https://addons.opera.com/es-419/extensions/details/qr-code-tab/
+TARJETA PRESENTACIÓN:	https://www.canva.com
+DIRECCIÓN LOCAL:	https://www.google.com/maps/place/Av.+de+Palencia,+120,+39300+Torrelavega,+Cantabria,+España/@43.3391053,-4.0616178,19z/data=!4m6!3m5!1s0xd493e06719e2ad7:0xdaf5f0a7ecb1e461!8m2!3d43.3391053!4d-4.0609741!16s%2Fg%2F11c1447ld0?hl=es&entry=ttu
+INFO TARJETA VISITA:	https://www.zaask.es/cuanto-cuesta/diseno-de-tarjeta-de-visita
+
+INVENTARIO:
+SILLAS: 		https://www.pccomponentes.com/vinsetto-silla-de-oficina-transpirable-con-reposabrazos-negra
+MESAS:			https://www.pccomponentes.com/homcom-escritorio-de-oficina-multifuncional-135x60x75cm-blanco
+ORDENADORES:		https://www.pccomponentes.com/zone-evil-basic-intel-core-i5-10400-8-gb-480gb-ssd
+RATONES:		https://www.pccomponentes.com/philips-spk7207bl-00-raton-usb-1200dpi-negro
+TECLADOS:		https://www.pccomponentes.com/gembird-kb-u-103-es-teclado-usb-negro		
+MONITORES:		https://www.pccomponentes.com/viewsonic-va2215-h-22-led-fullhd-75hz
+PORTATILES:		https://www.pccomponentes.com/hp-15s-eq2086ns-amd-ryzen-3-5300u-8gb-512gb-ssd-156
+SERVIDOR:		https://www.pccomponentes.com/dell-poweredge-t40-intel-xeon-e-2224g-8-gb-1tb
+IMPRESORA:		https://www.pccomponentes.com/hp-deskjet-3760-multifuncion-color-wifi-4-meses-impresion-instant-ink
+ROUTER:			https://www.pccomponentes.com/tp-link-tl-mr100-router-wi-fi-n-4g-lte
+SWITCH:			https://www.pccomponentes.com/tp-link-ls108g-switch-8-puertos-gigabit-10-100-1000-mbps-metalico-no-administrado
+CABLEADO RED:		https://www.pccomponentes.com/bobina-100m-cable-red-r-gido-utp-cat--6-10-100-1000		
+PACK HERRAMIENTAS:	https://www.pccomponentes.com/kit-herramientas-para-redes-lan
+VEHICULOS:		https://empresas.renault.es/comerciales/express-furgon.html
+
+ESTIMACIÓN ECONÓMICA:
+	GASTOS INICIALES:
+		FIANZA:				https://www.mundojuridico.info/la-fianza-en-el-arrendamiento-de-local/#:~:text=El%20importe%20de%20la%20fianza,el%20que%20regula%20la%20fianza
+		LEY PROTECCIÓN DE DATOS:	https://protecciondatos-lopd.com/empresas-precio-alta/
+		PUBLICIDAD:			http://cruz-losada.over-blog.es/article-tarifas-publicidad-prensa-espanola-85904908.html
+		SEGURO RESPONSABILIDAD CIVIL:	https://www.zurich.es/seguros-empresas/responsabilidad-civil
+	GASTOS PERIODICOS:
+		GASOLINA: 			https://www.dieselogasolina.com
+		
+PRESTAMO:	 https://www.ico.es/web/guest/ico-empresas-y-emprendedores/tipos-interes-tae		
